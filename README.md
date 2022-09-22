@@ -1,0 +1,2 @@
+# Online-Examination-System-using-Java-Swing
+Online Examination System is a window based application designed using java Swing without Database.There are some questions given to play.User can bookmark any question for reconsideration while going to result.Java array is used to store questions,options and answers instead of database .you can also use collection framework or database in place of array.
